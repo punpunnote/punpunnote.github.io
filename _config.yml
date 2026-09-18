@@ -1,0 +1,11 @@
+title: ぷんぷんノート
+description: 暮らしに役立つ情報を整理してお届けするブログ
+lang: ja
+theme: minima
+author: ぷんぷんノート
+markdown: kramdown
+
+exclude:
+  - CLAUDE.md
+  - README.md
+  - templates

@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: "%Y年%-m月%-d日" }}
+      </time>
+    </p>
+  </header>
+
+  <p class="pr-disclosure" style="padding:0.6em 1em;background:#f5f5f5;border-left:4px solid #999;font-size:0.9em;">
+    本記事はプロモーション（アフィリエイト広告）を含みます。
+  </p>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+</article>
