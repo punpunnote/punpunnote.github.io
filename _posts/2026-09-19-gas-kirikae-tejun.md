@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ガス会社は切り替えられるか｜都市ガスとプロパンで話がまったく違う"
+date: 2026-09-19 09:00:00 +0900
 categories: [電気・ガス]
 ---
 
@@ -107,8 +108,6 @@ categories: [電気・ガス]
 制度の内容は
 [資源エネルギー庁のLPガスに関するページ](https://www.enecho.meti.go.jp/category/resources_and_fuel/distribution/)
 で確認できます。
-
-制度の正確な内容と適用範囲は、資源エネルギー庁の公表資料で確認してください。
 
 ## 引っ越しのときの注意
 
